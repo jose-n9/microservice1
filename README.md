@@ -35,4 +35,4 @@ Micro-Serivce Instrucitons:
         The database will send a response regarding the provided information, and the server will then respond to the           
         user, allowing them to login/register. 
 
-![uml](/Users/josenavarro/Desktop/Personal Projects/Budget App/microservice/uml.png)
+   ![uml](/Users/josenavarro/Desktop/Personal Projects/Budget App/microservice/uml.png)
