@@ -36,4 +36,4 @@ Micro-Serivce Instrucitons:
         The database will send a response regarding the provided information, and the server will then respond to the           
         user, allowing them to login/register. 
 
-       
+       ![uml](https://github.com/jose-n9/microservice1/assets/157439765/a5df3598-3640-4d95-9d27-cc84a4b57e77)
